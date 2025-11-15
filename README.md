@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alok Kumar Gupta</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=trooooperr&label=Profile%20views&color=0e75b6&style=plastic" alt="trooooperr" /> 
+</p>
 
 - 🔭 I’m currently working on [**ShramSetu**](https://shramsetu.onrender.com)
 - 🌱 I’m currently learning **NextJs, ThreeJs**
@@ -31,7 +34,6 @@
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" style="vertical-align: middle;" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" style="vertical-align: middle;" />
 </p>
-
 <hr>
 
 <p align="center">
@@ -44,23 +46,23 @@
       <!-- Right: Social Links -->
       <td align="right" valign="top">
         <h3 align="center">Connect with me:</h3>
-        <a href="https://twitter.com/trooooperr" target="_blank">
-          <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/twitter.svg" alt="Twitter" height="30" width="40" />
+        <a href="https://twitter.com/trooooperr" target="_blank" style="vertical-align: middle; text-decoration: none;">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
         </a>
-        <a href="https://linkedin.com/in/trooperr" target="_blank">
-          <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
+        <a href="https://linkedin.com/in/trooperr" target="_blank" style="vertical-align: middle; text-decoration: none;">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
         </a>
-        <a href="https://www.codechef.com/users/trooperr" target="_blank">
-          <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/codechef.svg" alt="CodeChef" height="30" width="40" />
+        <a href="https://www.codechef.com/users/trooperr" target="_blank" style="vertical-align: middle; text-decoration: none;">
+          <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" />
         </a>
-        <a href="https://codeforces.com/profile/trooperr" target="_blank">
-          <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/codeforces.svg" alt="Codeforces" height="30" width="40" />
+        <a href="https://codeforces.com/profile/trooperr" target="_blank" style="vertical-align: middle; text-decoration: none;">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" />
         </a>
-        <a href="https://www.leetcode.com/trooperr" target="_blank">
-          <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/leetcode.svg" alt="LeetCode" height="30" width="40" />
+        <a href="https://www.leetcode.com/trooperr" target="_blank" style="vertical-align: middle; text-decoration: none;">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
         </a>
-        <a href="https://discord.gg/trooperr" target="_blank">
-          <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/discord.svg" alt="Discord" height="30" width="40" />
+        <a href="https://discord.gg/trooperr" target="_blank" style="vertical-align: middle; text-decoration: none;">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
         </a>
       </td>
     </tr>
