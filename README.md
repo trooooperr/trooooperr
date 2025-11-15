@@ -21,12 +21,13 @@
  <br>
  
 <div align="center"> 
+
+<a href="https://twitter.com/trooooperr" target="_blank">
+   <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+</a> 
   <a href="mailto:trooooperr@gmail.com.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://twitter.com/trooooperr" target="_blank">
-   <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-</a>
   
 <a href="https://linkedin.com/in/trooperr" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
