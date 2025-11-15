@@ -81,7 +81,7 @@
       </td>
 <!-- Right: Social Links -->
       <td align="right" valign="top">
-        <h3>Connect with me:</h3>
+        <h3 align="center">Connect with me:</h3>
         <a href="https://twitter.com/trooooperr" target="_blank">
           <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
         </a>
