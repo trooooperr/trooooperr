@@ -1,70 +1,62 @@
-<h1 align="center">Hi 👋, I'm Alok Kumar Gupta</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Alok+Kumar+Gupta!;" />
+</h1>
+<h3 align="center">A passionate FullStack Developer from India</h3>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=trooooperr&label=Profile%20views&color=0e75b6&style=plastic" alt="trooooperr" /> 
-</p>
+<br/>
 
-- 🔭 I’m currently working on [**ShramSetu**](https://shramsetu.onrender.com)
-- 🌱 I’m currently learning **NextJs, ThreeJs**
-- 👯 I’m looking to collaborate on **Chatz**
-- 👨‍💻 All of my projects are available at [**My Portfolio**](https://alokgupta.onrender.com)
-- 💬 Ask me about **JavaScript, TypeScript, React**
-- 📫 How to reach me: [**Email Me**](mailto:work.alokgupta@gmail.com)
-- 📄 Know more about [**Me**](https://docs.google.com/document/d/1ZrOCMGV05kq1kDvRmKJLNssCYWzuxaEpGtAta3Wk2aU/edit?usp=sharing)
-
-<hr>
-
-<h3 align="center">Languages & Tools:</h3>
+<div align="left">
+ 
+ 🔭 I’m currently working on **ShramSetu**<br>
+ 🌱 I’m currently learning **Docker, AWS**<br>
+ 👯 I’m looking to collaborate on **Chatz**<br>
+💬 Ask me about **Node.js, React, NextJs...**<br>
+👨‍💻 All of my projects are available at my [**Portfolio**](https://alokgupta.onrender.com)<br>
+📄 Know more about me on my [**Resume**](https://docs.google.com/document/d/1ZrOCMGV05kq1kDvRmKJLNssCYWzuxaEpGtAta3Wk2aU/edit?usp=sharing)<br>
 <br>
-<p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="vertical-align: middle;" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="vertical-align: middle;" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="vertical-align: middle;" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="vertical-align: middle;" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="vertical-align: middle;" />
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" style="vertical-align: middle;" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" style="vertical-align: middle;" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" style="vertical-align: middle;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" style="vertical-align: middle;"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="vertical-align: middle;" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" style="vertical-align: middle;" />
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" style="vertical-align: middle;" />
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="vertical-align: middle;" /> 
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" style="vertical-align: middle;" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" style="vertical-align: middle;" />
-</p>
-<hr>
 
-<p align="center">
-  <table align="center">
-    <tr>
-      <!-- Left: Top Languages Chart -->
-      <td align="left">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=trooooperr&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-      </td>
-      <!-- Right: Social Links -->
-      <td align="right" valign="top">
-        <h3 align="center">Connect with me:</h3>
-        <a href="https://twitter.com/trooooperr" target="_blank" style="vertical-align: middle; text-decoration: none;">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-        </a>
-        <a href="https://linkedin.com/in/trooperr" target="_blank" style="vertical-align: middle; text-decoration: none;">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-        </a>
-        <a href="https://www.codechef.com/users/trooperr" target="_blank" style="vertical-align: middle; text-decoration: none;">
-          <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" />
-        </a>
-        <a href="https://codeforces.com/profile/trooperr" target="_blank" style="vertical-align: middle; text-decoration: none;">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" />
-        </a>
-        <a href="https://www.leetcode.com/trooperr" target="_blank" style="vertical-align: middle; text-decoration: none;">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-        </a>
-        <a href="https://discord.gg/trooperr" target="_blank" style="vertical-align: middle; text-decoration: none;">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</p>
+ </div>
+
+ <h2 align="center">Connect with me</h2>
+ <br>
+ 
+<div align="center"> 
+  <a href="mailto:trooooperr@gmail.com.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://twitter.com/trooooperr" target="_blank">
+   <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+</a>
+  
+<a href="https://linkedin.com/in/trooperr" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://discord.gg/trooperr" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+</a>
+  <a href="https://www.codechef.com/users/trooperr" target="_blank">
+  <img src="https://img.shields.io/badge/CodeChef-333333?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+</a>
+  <a href="https://www.leetcode.com/trooperr" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-F79F1F?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+</a>
+  <a href="https://codeforces.com/profile/trooperr" target="_blank">
+  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+</a>
+</div>
+<br>
+ 
+<h2 align="center">Languages-Frameworks-Tools</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,express,nodejs,github"/>
+    <img src="https://skillicons.dev/icons?i=figma,tailwind,git,mongodb,c,cpp,postgresql,prisma,nextjs,mysql" /><br>
+</div>
+<br/>
+<h2 align="center">Github Stats</h2>
+<br>
+<div align=center>
+  <img width=390 height=150 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=trooooperr&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 height=150 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=trooooperr&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="readme stats" />
+</div>
+<br>
