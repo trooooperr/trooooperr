@@ -8,8 +8,8 @@
 
 <div align="left">
     
- 🔭 I’m currently working on **ShramSetu**<br>
- 🌱 I’m currently learning **Docker, AWS**<br>
+ 🔭 I’m currently working on **ShramSetu, Vantage AI**<br>
+ 🌱 I’m currently learning **Docker, AWS, Kubernetes, Nginx**<br>
  👯 I’m looking to collaborate on **Chatz**<br>
 💬 Ask me about **Node.js, React, NextJs...**<br>
 👨‍💻 All of my projects are available at my [**Portfolio**](https://alokgupta.onrender.com)<br>
