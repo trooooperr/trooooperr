@@ -8,7 +8,7 @@
 
 <div align="left">
     
- 🔭 I’m currently working on **[ShramSetu](https://shramsetu.onrender.com), Vantage AI**<br>
+ 🔭 I’m currently working on **[ShramSetu](https://shramsetu.onrender.com), Collaborative Document Editor**<br>
  🌱 I’m currently learning **Docker, AWS, Kubernetes, Nginx**<br>
  👯 I’m looking to collaborate on **Chatz**<br>
 💬 Ask me about **Node.js, React, NextJs...**<br>
