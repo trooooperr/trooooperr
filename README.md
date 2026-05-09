@@ -50,8 +50,8 @@
 
 <h2 align="center">Github Stats</h2>
 <br>
-<div>
+<div align="center">
 <img width=45% height=200 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=trooooperr&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-<img width=45% height=180 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=trooooperr&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="readme stats" />
+<img width=45% height=160 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=trooooperr&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="readme stats" />
 </div>
 <br>
