@@ -12,7 +12,7 @@
  🌱 I’m currently learning **Docker, AWS, Kubernetes, Nginx**<br>
 💬 Ask me about **Node.js, JavaScript, React,...**<br>
 👨‍💻 All of my projects are available at my [**Portfolio**](https://alokgupta.onrender.com)<br>
-📄 Know more about me on my [**Resume**](https://docs.google.com/document/d/1ZrOCMGV05kq1kDvRmKJLNssCYWzuxaEpGtAta3Wk2aU/edit?usp=sharing)<br>
+<br>
 <br>
 
 </div>
