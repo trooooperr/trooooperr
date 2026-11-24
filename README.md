@@ -9,7 +9,7 @@
 
 <br/><br/>
 
-<a href="https://alokgupta.onrender.com">
+<a href="https://portfolio.alokgupta.onrender.com">
 <img src="https://img.shields.io/badge/PORTFOLIO-EXPLORE-C0C5CE?style=for-the-badge&logo=vercel&logoColor=111111"/>
 </a>
 <a href="https://linkedin.com/in/trooperr">
