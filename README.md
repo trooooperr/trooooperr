@@ -1,66 +1,54 @@
  <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050505,35:190B2D,70:54218A,100:090510&text=ALOK%20KUMAR%20GUPTA&fontSize=43&fontColor=FFFFFF&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20INDIA%20%F0%9F%87%AE%F0%9F%87%B3&descSize=15&descAlignY=58&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:080808,50:171022,100:080808&height=190&section=header&text=ALOK%20GUPTA&fontSize=55&fontColor=FFFFFF&fontAlignY=43&desc=FULL%20STACK%20DEVELOPER%20%20%E2%80%A2%20%20INDIA&descSize=14&descAlignY=68&animation=fadeIn" />
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=19&duration=2500&pause=900&color=C084FC&center=true&vCenter=true&width=700&lines=Hello%2C+World!+I'm+Alok+Gupta+%F0%9F%91%8B;Full+Stack+Developer;Building+Scalable+Digital+Experiences;Turning+Ideas+Into+Reality;Code.+Create.+Innovate." />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=B68AFF&center=true&vCenter=true&width=650&lines=Engineering+Ideas+Into+Reality.;Building+Modern+Web+Experiences.;Exploring+Technology.+Creating+Impact." />
 
 <br/><br/>
 
-<a href="https://alokgupta.onrender.com">
-<img src="https://img.shields.io/badge/EXPLORE%20MY%20PORTFOLIO-9333EA?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-<a href="https://linkedin.com/in/trooperr">
-<img src="https://img.shields.io/badge/LET'S%20CONNECT-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
-</a>
-<a href="mailto:trooooperr@gmail.com">
-<img src="https://img.shields.io/badge/CONTACT%20ME-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
-</a>
+<a href="https://alokgupta.onrender.com"><img src="https://img.shields.io/badge/PORTFOLIO-Visit%20Website-B68AFF?style=flat-square&logo=vercel&logoColor=white"/></a>
+&nbsp;
+<a href="https://linkedin.com/in/trooperr"><img src="https://img.shields.io/badge/LINKEDIN-Connect-161616?style=flat-square&logo=linkedin&logoColor=white"/></a>
+&nbsp;
+<a href="mailto:trooooperr@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Get%20In%20Touch-161616?style=flat-square&logo=gmail&logoColor=white"/></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=trooooperr&style=for-the-badge&color=7E22CE&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=trooooperr&style=flat-square&color=8055B8&label=PROFILE+VIEWS"/>
 
 </div>
 
----
+<br/>
 
-<div align="center">
-
-## `01` — THE DEVELOPER
-
-### Hey there! I'm Alok 👨‍💻
-
-**A developer who loves building things that matter.**
-
-</div>
+## About
 
 <table>
 <tr>
-<td width="65%" valign="middle">
+<td width="65%" valign="top">
 
-I'm a Full Stack Developer from India 🇮🇳 passionate about crafting modern web applications, building reliable backend systems, and exploring emerging technologies.
+### Hello, I'm Alok.
 
-I enjoy the entire development journey — from transforming an idea into a beautiful interface to engineering the systems that power it.
+I'm a Full Stack Developer from India, passionate about building modern applications and turning ideas into practical digital experiences.
 
-- 🔭 Building **[ShramSetu](https://shramsetu.onrender.com)**
-- 🌱 Exploring Docker, AWS, Kubernetes & Nginx
-- 💻 Working with JavaScript, React & Node.js
-- 🗄️ Interested in databases and backend architecture
-- 🎯 Focused on continuous learning and engineering better solutions
-- 🌐 Visit my **[Portfolio](https://alokgupta.onrender.com)**
+I enjoy working across the stack — from crafting intuitive interfaces to designing backend systems and exploring scalable technologies.
+
+- Currently building **[ShramSetu](https://shramsetu.onrender.com)**
+- Exploring cloud computing and DevOps
+- Interested in backend engineering and system design
+- Always experimenting with new technologies
+
+**My philosophy:** Write meaningful code. Build useful products. Never stop learning.
 
 </td>
-<td width="35%" align="center">
+<td width="35%" align="center" valign="middle">
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,postgres,git&perline=2" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,postgres,git&perline=2&theme=dark" />
 
 <br/><br/>
 
-**INDIA 🇮🇳**
-
-`DEVELOPER MODE: ON`
+`INDIA · DEVELOPER`
 
 </td>
 </tr>
@@ -68,130 +56,53 @@ I enjoy the entire development journey — from transforming an idea into a beau
 
 ---
 
-<div align="center">
-
-## `02` — DEVELOPER TERMINAL
-
-*Behind every great product is a lot of curiosity and code.*
-
-</div>
-
-```bash
-┌──(alok㉿developer)-[~]
-└─$ whoami
-
-  NAME       : Alok Kumar Gupta
-  ROLE       : Full Stack Developer
-  LOCATION   : India 🇮🇳
-  STATUS     : Building & Learning
-
-┌──(alok㉿developer)-[~]
-└─$ cat interests.txt
-
-  > Full Stack Development
-  > Backend Engineering
-  > Database Architecture
-  > Cloud & DevOps
-  > Problem Solving
-
-┌──(alok㉿developer)-[~]
-└─$ cat current_project.txt
-
-  > ShramSetu
-
-┌──(alok㉿developer)-[~]
-└─$ echo "BUILD. LEARN. INNOVATE."
-
-  BUILD. LEARN. INNOVATE. _
-```
-
----
+## Technology
 
 <div align="center">
 
-## `03` — MY ARSENAL
-
-*Technologies, tools and frameworks I work with.*
-
-</div>
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-**⌘ PROGRAMMING LANGUAGES**
+**LANGUAGES**
 
 <img src="https://skillicons.dev/icons?i=javascript,typescript,c,cpp&theme=dark" />
 
-</td>
-<td align="center" width="50%">
+<br/><br/>
 
-**◈ FRONTEND ENGINEERING**
+**FRONTEND**
 
 <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,threejs,figma&theme=dark" />
 
-</td>
-</tr>
-<tr>
-<td align="center">
+<br/><br/>
 
-**⚙ BACKEND ENGINEERING**
+**BACKEND & DATABASES**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,prisma&theme=dark" />
 
-</td>
-<td align="center">
+<br/><br/>
 
-**▤ DATABASES & ORM**
-
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,prisma&theme=dark" />
-
-</td>
-</tr>
-<tr>
-<td align="center" colspan="2">
-
-**⌁ TOOLS & INFRASTRUCTURE**
+**TOOLS & INFRASTRUCTURE**
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,aws,nginx&theme=dark" />
 
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-<div align="center">
-
-## `04` — SELECTED WORK
-
-*Ideas become products through experimentation and execution.*
-
-</div>
+## Selected Work
 
 <table>
 <tr>
 <td width="100%">
 
-<div align="center">
+### 01 / ShramSetu
 
-### 🚀 SHR AMSETU
-
-<img src="https://img.shields.io/badge/STATUS-CURRENTLY%20BUILDING-A855F7?style=for-the-badge"/>
-
-</div>
+<kbd> CURRENTLY BUILDING </kbd>
 
 A project I'm currently developing, focused on creating a meaningful digital experience.
 
-**Explore:** [shramsetu.onrender.com](https://shramsetu.onrender.com)
-
-<div align="center">
+**Explore the project**
 
 <a href="https://shramsetu.onrender.com">
-<img src="https://img.shields.io/badge/VIEW%20LIVE%20PROJECT-9333EA?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-B68AFF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
-
-</div>
 
 </td>
 </tr>
@@ -199,94 +110,59 @@ A project I'm currently developing, focused on creating a meaningful digital exp
 
 ---
 
+## Currently Exploring
+
 <div align="center">
 
-## `05` — CURRENTLY LEVELING UP
-
-*The learning never stops.*
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-161616?style=for-the-badge&logo=docker&logoColor=2496ED"/>
+<img src="https://img.shields.io/badge/AWS-161616?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
+<img src="https://img.shields.io/badge/Kubernetes-161616?style=for-the-badge&logo=kubernetes&logoColor=326CE5"/>
+<img src="https://img.shields.io/badge/Nginx-161616?style=for-the-badge&logo=nginx&logoColor=009639"/>
 
 </div>
 
 ---
 
+## GitHub Overview
+
 <div align="center">
 
-## `06` — GITHUB PERFORMANCE
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=trooooperr&show_icons=true&hide_border=true&bg_color=0D0B12&title_color=B68AFF&icon_color=B68AFF&text_color=E5E5E5"/>
 
-*Every contribution is another step forward.*
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=trooooperr&theme=transparent&hide_border=true&background=0D0B12&ring=B68AFF&fire=B68AFF&currStreakLabel=B68AFF&sideLabels=E5E5E5&dates=888888"/>
+
+<br/><br/>
+
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trooooperr&layout=compact&hide_border=true&bg_color=0D0B12&title_color=B68AFF&text_color=E5E5E5&langs_count=8"/>
+
+<br/><br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=trooooperr&bg_color=0D0B12&color=B68AFF&line=9466D1&point=FFFFFF&area=true&hide_border=true"/>
+
+</div>
+
+---
+
+## Connect
+
+<div align="center">
+
+**Have something interesting in mind? Let's talk.**
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=trooooperr&show_icons=true&hide_border=true&bg_color=08050D&title_color=C084FC&icon_color=A855F7&text_color=E5E7EB&ring_color=A855F7"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=trooooperr&theme=transparent&hide_border=true&background=08050D&ring=C084FC&fire=A855F7&currStreakLabel=C084FC&sideLabels=E5E7EB&dates=888888"/>
-
-<br/><br/>
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trooooperr&layout=compact&hide_border=true&bg_color=08050D&title_color=C084FC&text_color=E5E7EB&langs_count=8"/>
+<a href="https://linkedin.com/in/trooperr"><img src="https://img.shields.io/badge/LinkedIn-161616?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="https://twitter.com/trooooperr"><img src="https://img.shields.io/badge/X-161616?style=flat-square&logo=x&logoColor=white"/></a>
+<a href="mailto:trooooperr@gmail.com"><img src="https://img.shields.io/badge/Gmail-161616?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="https://leetcode.com/trooperr"><img src="https://img.shields.io/badge/LeetCode-161616?style=flat-square&logo=leetcode&logoColor=white"/></a>
+<a href="https://www.codechef.com/users/trooperr"><img src="https://img.shields.io/badge/CodeChef-161616?style=flat-square&logo=codechef&logoColor=white"/></a>
 
 <br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=trooooperr&bg_color=08050D&color=C084FC&line=A855F7&point=FFFFFF&area=true&hide_border=true&custom_title=MY%20CONTRIBUTION%20JOURNEY"/>
-
-</div>
-
----
-
-<div align="center">
-
-## `07` — ACHIEVEMENTS & CERTIFICATIONS
-
-*Learning today. Building tomorrow.*
-
-🏆 Always exploring opportunities to improve my skills.
-
-*More achievements and verified certifications will be added here.*
-
-</div>
-
----
-
-<div align="center">
-
-## `08` — LET'S BUILD SOMETHING TOGETHER
-
-### Have an idea? Let's turn it into reality.
-
-I'm always interested in connecting with developers, collaborating on exciting projects and exploring new opportunities.
+*Building quietly. Improving constantly. Creating meaningfully.*
 
 <br/>
 
-<a href="mailto:trooooperr@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://linkedin.com/in/trooperr">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://twitter.com/trooooperr">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-<a href="https://github.com/trooooperr">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://leetcode.com/trooperr">
-<img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-<a href="https://www.codechef.com/users/trooperr">
-<img src="https://img.shields.io/badge/CODECHEF-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-### ✦ CODE WITH PURPOSE. BUILD WITH PASSION. ✦
-
-**Thanks for visiting my profile!**
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:050505,50:35105C,100:050505&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,50:211334,100:080808&height=100&section=footer"/>
 
 </div>
