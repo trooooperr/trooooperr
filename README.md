@@ -92,43 +92,50 @@ I enjoy designing and developing modern web applications, solving real-world pro
 
 ---
 
+
 <div align="center">
 
-## SELECTED PROJECTS
+# SELECTED WORK
 
-<sub>THINGS I'VE BUILT · THINGS I'M BUILDING</sub>
+<sub>A COLLECTION OF THINGS I'VE BUILT</sub>
+
+<br/><br/>
 
 </div>
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
+<img src="./assets/iphone15.png" width="100%" alt="iPhone 15 Clone Preview"/>
+
 ### 01 / iPhone15-clone
 
-A modern and responsive recreation of Apple's iPhone 15 Pro website featuring immersive 3D visuals, interactive models and smooth animations.
+An immersive Apple-inspired website with interactive 3D visuals and smooth animations.
 
-**Stack**
+**TECH STACK**
 
-`React` `Three.js` `GSAP` `Tailwind CSS`
+`React` `Three.js` `GSAP` `Tailwind`
 
 <a href="https://github.com/trooooperr/iPhone15-clone">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-C0C5CE?style=flat-square&logo=github&logoColor=111111"/>
+<img src="https://img.shields.io/badge/VIEW_PROJECT-C0C5CE?style=for-the-badge&logo=github&logoColor=111111"/>
 </a>
 
 </td>
 <td width="50%" valign="top">
 
+<img src="./assets/portfolio.png" width="100%" alt="Portfolio Preview"/>
+
 ### 02 / Portfolio
 
-A premium developer portfolio and creative showcase featuring a dark glassmorphic design, categorized skills, projects and responsive layouts.
+A premium developer portfolio with a dark glassmorphic design and responsive layouts.
 
-**Stack**
+**TECH STACK**
 
 `Node.js` `Express` `EJS`
 
 <a href="https://alokgupta.onrender.com">
-<img src="https://img.shields.io/badge/VISIT%20PORTFOLIO-C0C5CE?style=flat-square&logo=vercel&logoColor=111111"/>
+<img src="https://img.shields.io/badge/VISIT_PORTFOLIO-C0C5CE?style=for-the-badge&logo=vercel&logoColor=111111"/>
 </a>
 
 </td>
@@ -136,15 +143,17 @@ A premium developer portfolio and creative showcase featuring a dark glassmorphi
 <tr>
 <td colspan="2">
 
+<img src="./assets/shramsetu.png" width="100%" alt="ShramSetu Preview"/>
+
 ### 03 / ShramSetu
 
-A project currently in development, focused on building meaningful digital experiences.
+A project currently in development, focused on creating meaningful digital experiences.
 
-**Status:** `IN DEVELOPMENT`
+**STATUS:** `IN DEVELOPMENT`
 
 <div align="center">
 <a href="https://shramsetu.onrender.com">
-<img src="https://img.shields.io/badge/EXPLORE%20SHRAMSETU-C0C5CE?style=flat-square&logo=googlechrome&logoColor=111111"/>
+<img src="https://img.shields.io/badge/EXPLORE_SHRAMSETU-C0C5CE?style=for-the-badge&logo=googlechrome&logoColor=111111"/>
 </a>
 </div>
 
