@@ -1,364 +1,228 @@
- <div align="center">
+&#x20;\<div align="center">
 
-<!-- HERO -->
+\<!-- PREMIUM SILVER HEADER -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,35:170B25,70:492078,100:080510&height=210&section=header&text=ALOK%20KUMAR%20GUPTA&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20INDIA&descSize=15&descAlignY=59&animation=fadeIn" />
+\<img width="100%" src="[https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050505,45:25282D,75:555B63,100:090909&text=ALOK%20KUMAR%20GUPTA&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%E2%80%A2%20INDIA&descSize=15&descAlignY=59&animation=fadeIn](https://capsule-render.vercel.app/api?type=waving\&height=220\&color=0:050505,45:25282D,75:555B63,100:090909\&text=ALOK%20KUMAR%20GUPTA\&fontSize=42\&fontColor=FFFFFF\&fontAlignY=38\&desc=FULL%20STACK%20DEVELOPER%20%E2%80%A2%20INDIA\&descSize=15\&descAlignY=59\&animation=fadeIn)"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=B68AFF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Alok+Gupta+%F0%9F%91%8B;Full+Stack+Developer;Building+Modern+Digital+Experiences;Turning+Ideas+Into+Reality;Code.+Create.+Innovate." />
+\<br/>
 
-<br/>
+\<img src="[https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=C0C5CE&center=true&vCenter=true&width=700&lines=Building+Digital+Experiences.;Turning+Ideas+Into+Reality.;Full+Stack+Developer.;Build.+Learn.+Innovate](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono\&weight=500\&size=18\&duration=3000\&pause=1000\&color=C0C5CE\&center=true\&vCenter=true\&width=700\&lines=Building+Digital+Experiences.;Turning+Ideas+Into+Reality.;Full+Stack+Developer.;Build.+Learn.+Innovate)." />
 
-<a href="https://alokgupta.onrender.com">
-<img src="https://img.shields.io/badge/PORTFOLIO-EXPLORE-B68AFF?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-<a href="https://linkedin.com/in/trooperr">
-<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-161616?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:trooooperr@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-CONTACT-161616?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+\<br/>\<br/>
 
-<br/><br/>
+\<a href="[https://alokgupta.onrender.com](https://alokgupta.onrender.com)"> \<img src="[https://img.shields.io/badge/PORTFOLIO-EXPLORE-C0C5CE?style=for-the-badge&logo=vercel&logoColor=111111](https://img.shields.io/badge/PORTFOLIO-EXPLORE-C0C5CE?style=for-the-badge\&logo=vercel\&logoColor=111111)"/> \</a> \<a href="[https://linkedin.com/in/trooperr](https://linkedin.com/in/trooperr)"> \<img src="[https://img.shields.io/badge/LINKEDIN-CONNECT-24272D?style=for-the-badge&logo=linkedin&logoColor=FFFFFF](https://img.shields.io/badge/LINKEDIN-CONNECT-24272D?style=for-the-badge\&logo=linkedin\&logoColor=FFFFFF)"/> \</a> \<a href="mailto\:trooooperr\@gmail.com"> \<img src="[https://img.shields.io/badge/EMAIL-CONTACT-24272D?style=for-the-badge&logo=gmail&logoColor=FFFFFF](https://img.shields.io/badge/EMAIL-CONTACT-24272D?style=for-the-badge\&logo=gmail\&logoColor=FFFFFF)"/> \</a>
 
-<img src="https://komarev.com/ghpvc/?username=trooooperr&style=flat-square&color=9333EA&label=PROFILE+VIEWS"/>
+\<br/>\<br/>
 
-</div>
+\<img src="[https://komarev.com/ghpvc/?username=trooooperr&style=flat-square&color=717780&label=PROFILE+VIEWS](https://komarev.com/ghpvc/?username=trooooperr\&style=flat-square\&color=717780\&label=PROFILE+VIEWS)"/>
+
+\</div>
 
 ---
 
-<!-- ABOUT -->
+\<table>
+\<tr>
+\<td width="65%" valign="top">
 
-<div align="center">
+## About Me
 
-## ABOUT ME
+Hey, I'm **Alok Kumar Gupta** — a Full Stack Developer from India.
 
-*Building things for the web. Learning something new every day.*
+I enjoy designing and developing modern web applications, solving real-world problems, and turning creative ideas into functional digital products.
 
-</div>
+I'm passionate about clean interfaces, backend development, emerging technologies, and continuously improving my engineering skills.
 
-<table>
-<tr>
-<td width="65%" valign="middle">
+- 🔭 Currently building [**ShramSetu**](https://shramsetu.onrender.com)
+- 🌱 Learning **Docker, AWS, Kubernetes & Nginx**
+- 💻 Interested in **Full Stack & Backend Development**
+- ⚡ I love building, experimenting and learning
+- 🌐 Explore my [**Portfolio**](https://alokgupta.onrender.com)
 
-### Hello, World! I'm Alok.
+\</td>
+\<td width="35%" valign="middle" align="center">
 
-I'm a passionate **Full Stack Developer from India 🇮🇳** who enjoys transforming ideas into modern, functional and engaging digital experiences.
+\<img src="[https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,postgres,git&perline=2&theme=dark](https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,postgres,git\&perline=2\&theme=dark)"/>
 
-I love exploring new technologies, building real-world applications and solving interesting engineering problems.
-
-- 🔭 Currently working on [ShramSetu](https://shramsetu.onrender.com)
-- 🌱 Currently learning Docker, AWS, Kubernetes & Nginx
-- 💻 Interested in JavaScript, React & Node.js
-- ⚙️ Exploring backend engineering and scalable applications
-- 🌐 Check out my [Personal Portfolio](https://alokgupta.onrender.com)
-- 🎯 Always building, experimenting and improving
-
-</td>
-<td width="35%" align="center" valign="middle">
-
-<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,postgres,git&perline=2&theme=dark"/>
-
-<br/><br/>
+\<br/>\<br/>
 
 **INDIA · DEVELOPER**
 
-`BUILDING IN PUBLIC`
-
-</td>
-</tr>
-</table>
+\</td>
+\</tr>
+\</table>
 
 ---
 
-<!-- TERMINAL -->
+\<div align="center">
 
-<div align="center">
+## TECHNOLOGIES
 
-## DEVELOPER TERMINAL
+\<sub>TOOLS I USE TO TURN IDEAS INTO PRODUCTS\</sub>
 
-*An inside look at my developer mindset.*
+\<br/>\<br/>
 
-</div>
+### Languages
 
-```bash
-┌──(alok㉿developer)-[~]
-└─$ whoami
+\<img src="[https://skillicons.dev/icons?i=javascript,typescript,c,cpp&theme=dark](https://skillicons.dev/icons?i=javascript,typescript,c,cpp\&theme=dark)"/>
 
-  NAME      : Alok Kumar Gupta
-  ROLE      : Full Stack Developer
-  LOCATION  : India 🇮🇳
-  STATUS    : Building & Learning
+### Frontend
 
-┌──(alok㉿developer)-[~]
-└─$ ls interests/
+\<img src="[https://skillicons.dev/icons?i=html,css,react,tailwind,figma,threejs&theme=dark](https://skillicons.dev/icons?i=html,css,react,tailwind,figma,threejs\&theme=dark)"/>
 
-  frontend_development/
-  backend_engineering/
-  database_management/
-  cloud_and_devops/
-  problem_solving/
+### Backend & Databases
 
-┌──(alok㉿developer)-[~]
-└─$ cat current_project.txt
+\<img src="[https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,prisma&theme=dark](https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,prisma\&theme=dark)"/>
 
-  ShramSetu
+### Tools & DevOps
 
-┌──(alok㉿developer)-[~]
-└─$ echo "BUILD. LEARN. INNOVATE."
+\<img src="[https://skillicons.dev/icons?i=git,github,docker,aws,nginx&theme=dark](https://skillicons.dev/icons?i=git,github,docker,aws,nginx\&theme=dark)"/>
 
-  BUILD. LEARN. INNOVATE. _
-```
+\</div>
 
 ---
 
-<!-- TECH STACK -->
-
-<div align="center">
-
-## TECHNOLOGY & TOOLS
-
-*My tools of choice for turning ideas into reality.*
-
-<br/>
-
-**01 — LANGUAGES**
-
-<img src="https://skillicons.dev/icons?i=javascript,typescript,c,cpp&theme=dark"/>
-
-<br/><br/>
-
-**02 — FRONTEND DEVELOPMENT**
-
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,threejs,figma&theme=dark"/>
-
-<br/><br/>
-
-**03 — BACKEND DEVELOPMENT**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark"/>
-
-<br/><br/>
-
-**04 — DATABASES & ORM**
-
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,prisma&theme=dark"/>
-
-<br/><br/>
-
-**05 — TOOLS & DEVOPS**
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,aws,nginx&theme=dark"/>
-
-</div>
-
----
-
-<!-- PROJECTS -->
-
-<div align="center">
+\<div align="center">
 
 ## SELECTED PROJECTS
 
-*Some things I've been building.*
+\<sub>THINGS I'VE BUILT · THINGS I'M BUILDING\</sub>
 
-<br/>
+\</div>
 
-</div>
+\<table>
+\<tr>
+\<td width="50%" valign="top">
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### 01 / iPhone15-clone
 
-### 01. iPhone15-clone
+A modern and responsive recreation of Apple's iPhone 15 Pro website featuring immersive 3D visuals, interactive models and smooth animations.
 
-<img src="https://img.shields.io/badge/WEB%20DEVELOPMENT-B68AFF?style=flat-square"/>
+**Stack**
 
-A modern and responsive clone of Apple's iPhone 15 Pro website.
+`React` `Three.js` `GSAP` `Tailwind CSS`
 
-Built with React, Three.js, GSAP and Tailwind CSS, featuring smooth animations, interactive 3D models and a premium Apple-inspired UI.
+\<a href="[https://github.com/trooooperr/iPhone15-clone](https://github.com/trooooperr/iPhone15-clone)"> \<img src="[https://img.shields.io/badge/VIEW%20REPOSITORY-C0C5CE?style=flat-square&logo=github&logoColor=111111](https://img.shields.io/badge/VIEW%20REPOSITORY-C0C5CE?style=flat-square\&logo=github\&logoColor=111111)"/> \</a>
 
-**Tech:** JavaScript · React · Three.js · GSAP
+\</td>
+\<td width="50%" valign="top">
 
-<br/>
+### 02 / Portfolio
 
-<a href="https://github.com/trooooperr/iPhone15-clone">
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-161616?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+A premium developer portfolio and creative showcase featuring a dark glassmorphic design, categorized skills, projects and responsive layouts.
 
-</td>
-<td width="50%" valign="top">
+**Stack**
 
-### 02. Portfolio
+`Node.js` `Express` `EJS`
 
-<img src="https://img.shields.io/badge/PERSONAL%20BRANDING-B68AFF?style=flat-square"/>
+\<a href="[https://alokgupta.onrender.com](https://alokgupta.onrender.com)">
+\<img src="[https://img.shields.io/badge/VISIT%20PORTFOLIO-C0C5CE?style=flat-square&logo=vercel&logoColor=111111](https://img.shields.io/badge/VISIT%20PORTFOLIO-C0C5CE?style=flat-square\&logo=vercel\&logoColor=111111)"/>
+\</a>
 
-A premium developer portfolio and creative showcase built with Node.js, Express and EJS.
+\</td>
+\</tr>
+\<tr>
+\<td colspan="2">
 
-Features a responsive dark glassmorphic design, categorized skills grid and detailed project sections.
+### 03 / ShramSetu
 
-**Tech:** Node.js · Express · EJS
+A project currently in development, focused on building meaningful digital experiences.
 
-<br/>
+**Status:** `IN DEVELOPMENT`
 
-<a href="https://github.com/trooooperr/Portfolio">
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-161616?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<br/>
-<a href="https://alokgupta.onrender.com">
-<img src="https://img.shields.io/badge/LIVE%20PORTFOLIO-9333EA?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+\<div align="center"> \<a href="[https://shramsetu.onrender.com](https://shramsetu.onrender.com)"> \<img src="[https://img.shields.io/badge/EXPLORE%20SHRAMSETU-C0C5CE?style=flat-square&logo=googlechrome&logoColor=111111](https://img.shields.io/badge/EXPLORE%20SHRAMSETU-C0C5CE?style=flat-square\&logo=googlechrome\&logoColor=111111)"/> \</a> \</div>
 
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-### 03. ShramSetu
-
-<img src="https://img.shields.io/badge/CURRENTLY%20BUILDING-B68AFF?style=flat-square"/>
-
-A project currently under development. More details and project highlights will be added as development progresses.
-
-<div align="center">
-
-<a href="https://shramsetu.onrender.com">
-<img src="https://img.shields.io/badge/EXPLORE%20SHRAMSETU-9333EA?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-</div>
-
-</td>
-</tr>
-</table>
+\</td> \</tr> \</table>
 
 ---
 
-<!-- CURRENTLY LEARNING -->
-
-<div align="center">
+\<div align="center">
 
 ## CURRENTLY EXPLORING
 
-*Always pushing beyond what I already know.*
+\<img src="[https://img.shields.io/badge/Docker-202327?style=for-the-badge&logo=docker&logoColor=C0C5CE](https://img.shields.io/badge/Docker-202327?style=for-the-badge\&logo=docker\&logoColor=C0C5CE)"/> \<img src="[https://img.shields.io/badge/AWS-202327?style=for-the-badge&logo=amazonaws&logoColor=C0C5CE](https://img.shields.io/badge/AWS-202327?style=for-the-badge\&logo=amazonaws\&logoColor=C0C5CE)"/> \<img src="[https://img.shields.io/badge/Kubernetes-202327?style=for-the-badge&logo=kubernetes&logoColor=C0C5CE](https://img.shields.io/badge/Kubernetes-202327?style=for-the-badge\&logo=kubernetes\&logoColor=C0C5CE)"/> \<img src="[https://img.shields.io/badge/Nginx-202327?style=for-the-badge&logo=nginx&logoColor=C0C5CE](https://img.shields.io/badge/Nginx-202327?style=for-the-badge\&logo=nginx\&logoColor=C0C5CE)"/>
 
-<br/>
+\<br/>\<br/>
 
-<img src="https://img.shields.io/badge/Docker-161616?style=for-the-badge&logo=docker&logoColor=2496ED"/>
-<img src="https://img.shields.io/badge/AWS-161616?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
+\<sub>ALWAYS LEARNING · ALWAYS BUILDING\</sub>
 
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Kubernetes-161616?style=for-the-badge&logo=kubernetes&logoColor=326CE5"/>
-<img src="https://img.shields.io/badge/Nginx-161616?style=for-the-badge&logo=nginx&logoColor=009639"/>
-
-</div>
+\</div>
 
 ---
 
-<!-- GITHUB STATS -->
-
-<div align="center">
+\<div align="center">
 
 ## GITHUB ANALYTICS
 
-*Consistency, curiosity and a little bit of caffeine.*
+\<sub>A VISUAL OVERVIEW OF MY JOURNEY\</sub>
 
-<br/>
+\<br/>\<br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=trooooperr&show_icons=true&hide_border=true&bg_color=0D0B12&title_color=B68AFF&icon_color=B68AFF&text_color=E5E5E5&rank_icon=github"/>
+\<img width="49%" src="[https://github-readme-stats.vercel.app/api?username=trooooperr&show_icons=true&hide_border=true&bg_color=0B0D10&title_color=D1D5DB&icon_color=C0C5CE&text_color=E5E7EB&rank_icon=github](https://github-readme-stats.vercel.app/api?username=trooooperr\&show_icons=true\&hide_border=true\&bg_color=0B0D10\&title_color=D1D5DB\&icon_color=C0C5CE\&text_color=E5E7EB\&rank_icon=github)"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=trooooperr&theme=transparent&hide_border=true&background=0D0B12&ring=B68AFF&fire=9333EA&currStreakLabel=B68AFF&sideLabels=E5E5E5&dates=888888"/>
+\<img width="49%" src="[https://github-readme-streak-stats.herokuapp.com/?user=trooooperr&theme=transparent&hide_border=true&background=0B0D10&ring=C0C5CE&fire=FFFFFF&currStreakLabel=D1D5DB&sideLabels=E5E7EB&dates=9299A3](https://github-readme-streak-stats.herokuapp.com/?user=trooooperr\&theme=transparent\&hide_border=true\&background=0B0D10\&ring=C0C5CE\&fire=FFFFFF\&currStreakLabel=D1D5DB\&sideLabels=E5E7EB\&dates=9299A3)"/>
 
-<br/><br/>
+\<br/>\<br/>
 
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trooooperr&layout=compact&hide_border=true&bg_color=0D0B12&title_color=B68AFF&text_color=E5E5E5&langs_count=8"/>
+\<img width="48%" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=trooooperr&layout=compact&hide_border=true&bg_color=0B0D10&title_color=D1D5DB&text_color=E5E7EB&langs_count=8](https://github-readme-stats.vercel.app/api/top-langs/?username=trooooperr\&layout=compact\&hide_border=true\&bg_color=0B0D10\&title_color=D1D5DB\&text_color=E5E7EB\&langs_count=8)"/>
 
-</div>
+\<br/>\<br/>
+
+\<img width="100%" src="[https://github-readme-activity-graph.vercel.app/graph?username=trooooperr&bg_color=0B0D10&color=D1D5DB&line=BFC5CE&point=FFFFFF&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY](https://github-readme-activity-graph.vercel.app/graph?username=trooooperr\&bg_color=0B0D10\&color=D1D5DB\&line=BFC5CE\&point=FFFFFF\&area=true\&hide_border=true\&custom_title=CONTRIBUTION%20ACTIVITY)"/>
+
+\</div>
 
 ---
 
-<!-- CONTRIBUTION GRAPH -->
-
-<div align="center">
+\<div align="center">
 
 ## CONTRIBUTION JOURNEY
 
-*Every commit is a step forward.*
+\<sub>CONSISTENCY OVER PERFECTION\</sub>
 
-<br/>
+\<br/>\<br/>
 
-<img src="https://ghchart.rshah.org/9333EA/trooooperr" width="100%" alt="GitHub contribution calendar"/>
+\<img width="100%" src="[https://ghchart.rshah.org/C0C5CE/trooooperr](https://ghchart.rshah.org/C0C5CE/trooooperr)" alt="GitHub contribution graph"/>
 
-<br/><br/>
+\<br/>\<br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=trooooperr&bg_color=0D0B12&color=B68AFF&line=9333EA&point=FFFFFF&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" width="100%" alt="GitHub contribution activity"/>
+\<img width="100%" src="[https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=trooooperr&theme=github_dark](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=trooooperr\&theme=github_dark)" alt="GitHub profile summary"/>
 
-<br/><br/>
+\<br/>\<br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=trooooperr&theme=github_dark" width="100%" alt="GitHub profile summary"/>
+### KEEP BUILDING.
 
-</div>
-
----
-
-<!-- CONTRIBUTION SNAKE -->
-
-<div align="center">
-
-## THE CONTRIBUTION SNAKE
-
-*Eating commits, one square at a time.*
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/trooooperr/trooooperr/output/github-snake-dark.svg" width="100%" alt="Animated GitHub contribution snake"/>
-
-</div>
+\</div>
 
 ---
 
-<!-- CONNECT -->
+\<div align="center">
 
-<div align="center">
+## EVERY CONTRIBUTION COUNTS
+
+\<img src="[https://raw.githubusercontent.com/trooooperr/trooooperr/output/github-snake-dark.svg](https://raw.githubusercontent.com/trooooperr/trooooperr/output/github-snake-dark.svg)" alt="Contribution snake animation" width="100%"/>
+
+\</div>
+
+---
+
+\<div align="center">
 
 ## LET'S CONNECT
 
-### Have an idea? Let's build something meaningful.
+\<sub>OPEN TO COLLABORATIONS, IDEAS & INTERESTING PROJECTS\</sub>
 
-I'm always open to interesting conversations, collaboration and opportunities to create something awesome.
+\<br/>\<br/>
 
-<br/>
+\<a href="[https://linkedin.com/in/trooperr](https://linkedin.com/in/trooperr)"> \<img src="[https://img.shields.io/badge/LinkedIn-202327?style=for-the-badge&logo=linkedin&logoColor=FFFFFF](https://img.shields.io/badge/LinkedIn-202327?style=for-the-badge\&logo=linkedin\&logoColor=FFFFFF)"/> \</a> \<a href="[https://twitter.com/trooooperr](https://twitter.com/trooooperr)"> \<img src="[https://img.shields.io/badge/X-202327?style=for-the-badge&logo=x&logoColor=FFFFFF](https://img.shields.io/badge/X-202327?style=for-the-badge\&logo=x\&logoColor=FFFFFF)"/> \</a> \<a href="mailto\:trooooperr\@gmail.com"> \<img src="[https://img.shields.io/badge/Gmail-202327?style=for-the-badge&logo=gmail&logoColor=FFFFFF](https://img.shields.io/badge/Gmail-202327?style=for-the-badge\&logo=gmail\&logoColor=FFFFFF)"/> \</a> \<a href="[https://leetcode.com/trooperr](https://leetcode.com/trooperr)"> \<img src="[https://img.shields.io/badge/LeetCode-202327?style=for-the-badge&logo=leetcode&logoColor=FFFFFF](https://img.shields.io/badge/LeetCode-202327?style=for-the-badge\&logo=leetcode\&logoColor=FFFFFF)"/> \</a> \<a href="[https://www.codechef.com/users/trooooperr](https://www.codechef.com/users/trooooperr)"> \<img src="[https://img.shields.io/badge/CodeChef-202327?style=for-the-badge&logo=codechef&logoColor=FFFFFF](https://img.shields.io/badge/CodeChef-202327?style=for-the-badge\&logo=codechef\&logoColor=FFFFFF)"/> \</a>
 
-<a href="https://linkedin.com/in/trooperr">
-<img src="https://img.shields.io/badge/LINKEDIN-161616?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://twitter.com/trooooperr">
-<img src="https://img.shields.io/badge/X-161616?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-<a href="mailto:trooooperr@gmail.com">
-<img src="https://img.shields.io/badge/GMAIL-161616?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<a href="https://leetcode.com/trooperr">
-<img src="https://img.shields.io/badge/LEETCODE-161616?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-<a href="https://www.codechef.com/users/trooperr">
-<img src="https://img.shields.io/badge/CODECHEF-161616?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-<a href="https://github.com/trooooperr">
-<img src="https://img.shields.io/badge/GITHUB-161616?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br/><br/>
+\<br/>\<br/>
 
 ### BUILD WITH PURPOSE. CREATE WITH PASSION.
 
-*Thanks for stopping by. See you in the next commit!*
+*Thanks for stopping by.*
 
-<br/>
+\<br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080510,50:35134F,100:080510&height=120&section=footer"/>
+\<img width="100%" src="[https://capsule-render.vercel.app/api?type=waving&height=120&color=0:080808,50:454A52,100:080808&section=footer](https://capsule-render.vercel.app/api?type=waving\&height=120\&color=0:080808,50:454A52,100:080808\&section=footer)"/>
 
-</div>
+\</div>
