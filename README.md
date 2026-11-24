@@ -1,57 +1,129 @@
-<h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Alok+Kumar+Gupta!;" />
-</h1>
+ <div align="center">
 
-<h3 align="center">A passionate FullStack Developer from India</h3>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Alok+Kumar+Gupta+%F0%9F%91%8B;Full+Stack+Developer;Building+Ideas+Into+Reality;Always+Learning.+Always+Building." />
 
-<br/>
+Full Stack Developer · Problem Solver · Tech Enthusiast
 
-<div align="left">
-    
- 🔭 I’m currently working on **[ShramSetu](https://shramsetu.onrender.com)**<br>
- 🌱 I’m currently learning **Docker, AWS, Kubernetes, Nginx**<br>
-💬 Ask me about **Node.js, JavaScript, React,...**<br>
-👨‍💻 All of my projects are available at my [**Portfolio**](https://alokgupta.onrender.com)<br>
-<br>
-<br>
+Turning ideas into scalable, meaningful digital experiences.
+
+
+
+
+
+<img src="https://komarev.com/ghpvc/?username=trooooperr&style=flat-square&color=58A6FF&label=PROFILE+VIEWS" />
 
 </div>
 
-<h2 align="center">Connect with me</h2>
-<br>
+👨‍💻 About Me
 
-<div align="center"> 
-<a href="https://twitter.com/trooooperr" target="_blank">
-  <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-</a> 
-<a href="mailto:trooooperr@gmail.com.com">
-  <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-</a>
-<a href="https://linkedin.com/in/trooperr" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://www.codechef.com/users/trooperr" target="_blank">
-  <img src="https://img.shields.io/badge/CodeChef-333333?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
-</a>
-<a href="https://www.leetcode.com/trooperr" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-F79F1F?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-</a>
-</div>
+const alok = {
+    name: "Alok Kumar Gupta",
+    location: "India 🇮🇳",
+    role: "Full Stack Developer",
 
-<br> 
-<h2 align="center">Languages-Frameworks-Tools</h2>
-<br/>
+    currentlyBuilding: "ShramSetu",
+    portfolio: "alokgupta.onrender.com",
+
+    technologies: {
+        frontend: ["JavaScript", "TypeScript", "React", "Tailwind CSS"],
+        backend: ["Node.js", "Express.js"],
+        databases: ["MongoDB", "PostgreSQL", "MySQL"],
+        orm: ["Prisma"],
+        languages: ["C", "C++"]
+    },
+
+    currentlyLearning: [
+        "Docker",
+        "AWS",
+        "Kubernetes",
+        "Nginx"
+    ],
+
+    mindset: "Build. Learn. Improve. Repeat."
+};
+
+🔭 Currently building ShramSetu
+
+🌱 Exploring cloud infrastructure, DevOps and scalable systems.
+
+💬 Ask me about JavaScript, Node.js, React and Full Stack Development.
+
+🌐 Explore my work: Portfolio
+
+⚡ I love turning complex problems into elegant solutions.
+
+🚀 Featured Project
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,express,nodejs,github"/>
-<img src="https://skillicons.dev/icons?i=figma,tailwind,git,mongodb,c,cpp,postgresql,prisma,threejs,mysql" /><br>
-</div>
-<br/>
 
-<h2 align="center">Github Stats</h2>
-<br>
-<div align="center">
-<img width=45% height=200 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=trooooperr&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-<img width=45% height=160 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=trooooperr&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="readme stats" />
+ShramSetu
+
+Building technology-driven solutions with real-world impact.
+
+
+
 </div>
-<br>
+
+⚡ Tech Stack & Tools
+
+<div align="center">
+
+Languages
+
+<img src="https://skillicons.dev/icons?i=javascript,typescript,c,cpp" />
+
+Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,figma,threejs" />
+
+Backend & Database
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,prisma" />
+
+Tools & Technologies
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,nginx" />
+
+</div>
+
+📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=trooooperr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=trooooperr&theme=tokyonight&hide_border=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trooooperr&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+</div>
+
+🤝 Let's Connect
+
+<div align="center">
+
+I'm always open to interesting conversations, collaborations and opportunities.
+
+<a href="https://linkedin.com/in/trooperr">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://twitter.com/trooooperr">
+<img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+<a href="mailto:trooooperr@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.leetcode.com/trooperr">
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+<a href="https://www.codechef.com/users/trooperr">
+<img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+</a>
+
+<br/><br/>
+
+✨ "Great things are built one commit at a time."
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:238636&height=100&section=footer" />
+
+</div>
