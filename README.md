@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050505,45:25282D,75:555B63,100:090909&text=ALOK%20KUMAR%20GUPTA&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%E2%80%A2%20INDIA&descSize=15&descAlignY=59&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050505,45:25282D,75:555B63,100:090909&text=ALOK%20KUMAR%20GUPTA&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%E2%80%A2%20&descSize=15&descAlignY=59&animation=fadeIn"/>
 
 <br/>
 
